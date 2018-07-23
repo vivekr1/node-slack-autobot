@@ -1,0 +1,13 @@
+Google API  URLs: 
+
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=Berlin&inputtype=textquery&fields=geometry&key=
+https://maps.googleapis.com/maps/api/timezone/json?location=52,13&timestamp=1331161200&key=
+https://maps.googleapis.com/maps/api/geocode/json?address=vienna&key=
+
+Weather API URLs:
+https://api.openweathermap.org/data/2.5/weather?q=tokyo&appid= 
+https://api.openweathermap.org/data/2.5/weather?lat=13.5&lon=1.9&appid=
+
+
+Joke URL 
+https://api.chucknorris.io/jokes/random
